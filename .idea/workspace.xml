@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="208324b9-34c1-45d0-ac03-1a5527d184fc" name="Changes" comment="kode">
-      <change beforePath="$PROJECT_DIR$/kode_sait2.html" beforeDir="false" afterPath="$PROJECT_DIR$/kode_sait2.html" afterDir="false" />
+    <list default="true" id="208324b9-34c1-45d0-ac03-1a5527d184fc" name="Changes" comment="kode2">
+      <change beforePath="$PROJECT_DIR$/testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -130,7 +130,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718986394355</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="kode2">
+      <option name="closed" value="true" />
+      <created>1718986976524</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718986976524</updated>
+    </task>
+    <task id="LOCAL-00009" summary="kode2">
+      <option name="closed" value="true" />
+      <created>1718987124864</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718987124864</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -138,6 +154,7 @@
     <MESSAGE value="Print 5" />
     <MESSAGE value="5" />
     <MESSAGE value="kode" />
-    <option name="LAST_COMMIT_MESSAGE" value="kode" />
+    <MESSAGE value="kode2" />
+    <option name="LAST_COMMIT_MESSAGE" value="kode2" />
   </component>
 </project>
