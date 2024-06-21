@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="208324b9-34c1-45d0-ac03-1a5527d184fc" name="Changes" comment="kode2" />
+    <list default="true" id="208324b9-34c1-45d0-ac03-1a5527d184fc" name="Changes" comment="1test">
+      <change beforePath="$PROJECT_DIR$/#1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -185,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718987687122</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="1test">
+      <option name="closed" value="true" />
+      <created>1718989034857</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718989034857</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -194,6 +205,7 @@
     <MESSAGE value="5" />
     <MESSAGE value="kode" />
     <MESSAGE value="kode2" />
-    <option name="LAST_COMMIT_MESSAGE" value="kode2" />
+    <MESSAGE value="1test" />
+    <option name="LAST_COMMIT_MESSAGE" value="1test" />
   </component>
 </project>
